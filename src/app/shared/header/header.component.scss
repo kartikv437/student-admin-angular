@@ -1,0 +1,14 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cadetblue;
+    padding: 10px 10px;
+    .title-section{
+        .title{
+            font-size: 20px;
+            font-weight: 500;
+            color: #fff;
+        }
+    }
+}
